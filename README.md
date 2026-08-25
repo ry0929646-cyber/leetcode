@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ry0929646-cyber/leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/ry0929646-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ry0929646-cyber/leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/ry0929646-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
