@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ry0929646-cyber/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ry0929646-cyber/leetcode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/ry0929646-cyber/leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ry0929646-cyber/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ry0929646-cyber/leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/ry0929646-cyber/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/ry0929646-cyber/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ry0929646-cyber/leetcode/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/ry0929646-cyber/leetcode/tree/master/0496-next-greater-element-i) |
