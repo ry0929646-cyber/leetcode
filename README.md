@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ry0929646-cyber/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ry0929646-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ry0929646-cyber/leetcode/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/ry0929646-cyber/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ry0929646-cyber/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/ry0929646-cyber/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ry0929646-cyber/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/ry0929646-cyber/leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
