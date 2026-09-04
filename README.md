@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ry0929646-cyber/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ry0929646-cyber/leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/ry0929646-cyber/leetcode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/ry0929646-cyber/leetcode/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/ry0929646-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ry0929646-cyber/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/ry0929646-cyber/leetcode/tree/master/0904-fruit-into-baskets) |
