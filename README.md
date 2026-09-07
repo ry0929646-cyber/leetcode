@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ry0929646-cyber/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ry0929646-cyber/leetcode/tree/master/0066-plus-one) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ry0929646-cyber/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/ry0929646-cyber/leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ry0929646-cyber/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ry0929646-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ry0929646-cyber/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ry0929646-cyber/leetcode/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ry0929646-cyber/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/ry0929646-cyber/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/ry0929646-cyber/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ry0929646-cyber/leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ry0929646-cyber/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ry0929646-cyber/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
