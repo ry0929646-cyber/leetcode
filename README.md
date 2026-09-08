@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ry0929646-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ry0929646-cyber/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ry0929646-cyber/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ry0929646-cyber/leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ry0929646-cyber/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/ry0929646-cyber/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/ry0929646-cyber/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ry0929646-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ry0929646-cyber/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ry0929646-cyber/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ry0929646-cyber/leetcode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/ry0929646-cyber/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ry0929646-cyber/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
