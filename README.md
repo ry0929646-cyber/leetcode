@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ry0929646-cyber/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/ry0929646-cyber/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ry0929646-cyber/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0824-goat-latin](https://github.com/ry0929646-cyber/leetcode/tree/master/0824-goat-latin) |
 | [1021-remove-outermost-parentheses](https://github.com/ry0929646-cyber/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
