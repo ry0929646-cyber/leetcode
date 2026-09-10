@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ry0929646-cyber/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ry0929646-cyber/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0824-goat-latin](https://github.com/ry0929646-cyber/leetcode/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/ry0929646-cyber/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ry0929646-cyber/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ry0929646-cyber/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ry0929646-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ry0929646-cyber/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/ry0929646-cyber/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ry0929646-cyber/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ry0929646-cyber/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ry0929646-cyber/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ry0929646-cyber/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/ry0929646-cyber/leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ry0929646-cyber/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ry0929646-cyber/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
